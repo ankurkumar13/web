@@ -1,0 +1,56 @@
+.container{
+    position:relative;
+}
+
+.logo{
+    width:100px;
+    margin-top:10px;
+    margin-left:10px;
+}
+
+.about{
+    position:relative;
+    color:red;
+    margin-left: 120px;
+    margin-top:20px;
+    bottom:120px;
+    display:flex;
+    font-weight:bolder;
+}
+
+.about h5 {
+    color: black;
+}
+
+.loksabha{
+    width:400px;
+    margin-bottom: 200px;
+    position:absolute;
+    top:300px;
+    /* bottom:560px; */
+    left:30px;
+    display:flex;
+}
+
+.members {
+    text-align: center;
+    position: relative;
+    color:red;
+    margin-left: 0px;
+}
+
+.no{
+    position: relative;
+    text-align: right;
+    margin-right: 100px;
+    margin-top: 100px;
+    bottom: 400px;
+    font-weight:bolder;
+    font-size: large;
+}
+
+.ab h5{
+    border-bottom: 2px solid #C44747;
+    padding-bottom: 17px;
+    width: 11%;
+}
